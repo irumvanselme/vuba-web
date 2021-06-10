@@ -12,7 +12,7 @@ export default function Home() {
 				/>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<div>I am anselme</div>
+			<div className="bg-purple-300">I am anselme</div>
 		</div>
 	);
 }
